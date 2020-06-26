@@ -1,5 +1,5 @@
 ---
-title: "Insert your team name here"
+title: "Panda"
 output: html_document
 date: Replicathon 2020
 author: Team members names
